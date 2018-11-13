@@ -1,15 +1,15 @@
 MyRecommendations
 =================
 
-Recommendation applications developed using Django, including for the moment just:
+Recommendation applications developed using Django and Python 3, including for the moment just:
 - MyRestaurants
 
 The project is developed following an Agile Behaviour Driven Development approach.
 
 The source code for this project is available from:
-[https://github.com/rogargon/myrecommendations-bdd](https://github.com/rogargon/myrecommendations-bdd)
+[https://github.com/rogargon/myrecommendations/tree/python3](https://github.com/rogargon/myrecommendations/tree/python3)
 
-[![Build Status](https://travis-ci.org/rogargon/myrecommendations-bdd.svg?branch=master)](https://travis-ci.org/rogargon/myrecommendations-bdd)
+[![Build Status](https://travis-ci.org/rogargon/myrecommendations.svg?branch=master)](https://travis-ci.org/rogargon/myrecommendations)
 
 Starting the MyRecommendations Project
 ======================================
